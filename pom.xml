@@ -6,7 +6,7 @@
   <groupId>com.ctl</groupId>
   <artifactId>Maven-Project</artifactId>
   <packaging>war</packaging>
-  <version>4.0-RELEASE</version>
+  <version>5.0-RELEASE</version>
   <name>Maven Web Project</name>
   <description>Maven Web Project for Java Project</description>
 
